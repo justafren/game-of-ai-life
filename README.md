@@ -1,4 +1,13 @@
-https://chat.openai.com/share/e1ac65cb-3fde-4d63-993a-019db0d5223f
+This game including any of the text underneath the seperator below were entirely created bt chatgpt - here's a [link](https://chat.openai.com/share/e1ac65cb-3fde-4d63-993a-019db0d5223f) to the conversation or I have it saved (without the code snippets) [here](chatgpt-transcript)  
+
+
+Might be handy to run this in a virtualenv - `virtualenv cellauto --python 3.8`
+
+Here is it in action;
+
+![](game-of-ai-life.gif)
+
+---
 
 
 # Game of Life
@@ -7,13 +16,13 @@ This is a Python program based on Conway's Game of Life, implemented with a GUI 
 
 ## How to Run
 
-1. Make sure you have Python installed on your system (version 3.6 or above).
+1. Make sure you have Python installed on your system (version 3.8 or above).
 
 2. Clone this repository or download the source code files.
 
 3. Install the required dependencies by running the following command:
 
-pip install -r requirements.txt
+  `pip install -r requirements.txt`
 
 4. Choose the version of the program you want to run:
 
